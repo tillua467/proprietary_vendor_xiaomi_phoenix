@@ -255,6 +255,7 @@ PRODUCT_PACKAGES += \
     com.qti.chi.override \
     consumerir.sm6150 \
     fingerprint.fpc.sm6150 \
+    libFaceDetectpp-0.5.2 \
     fingerprint.goodix.sm6150 \
     libFaceGrade \
     libHalSuperSensorServer \
